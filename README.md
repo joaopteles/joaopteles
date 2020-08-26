@@ -1,16 +1,15 @@
-### Hi there 👋
+# Hi 👋
+## Meu nome é João Pedro Teles.
 
-<!--
-**seteljota/seteljota** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 😝 [LinkedIn](www.linkedin.com/in/joaopedroteles)
+#### 😄 Atualmente trabalho como Desenvolvedor Full-Stack pela [DTI](https://www.linkedin.com/company/dtidigital/?originalSubdomain=br)
+#### 🤔 Graduando pela [PUC-Minas](https://www.pucminas.br/destaques/Paginas/default.aspx)
+#### 💬 Curtindo Flutter, React JS, Sistemas Distribuídos, .NET e a vida
+#### ⚡ Amo praticar esportes
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```
+function boasVindas(){
+  var x = "Bem vindo ao meu GitHub!"
+  console.log(x);
+}
+```
