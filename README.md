@@ -8,7 +8,7 @@
 
 ```
 function boasVindas(){
-  var x = "Bem vindo ao meu GitHub!"
+  const x = "Bem vindo ao meu GitHub!"
   console.log(x);
 }
 ```
