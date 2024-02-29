@@ -1,14 +1,11 @@
-# Hi 👋
-## Meu nome é João Pedro Teles.
+# João Pedro Teles
 
-### 😝 [LinkedIn](https://www.linkedin.com/in/joaopedroteles)
-#### 😄 Atualmente trabalho como Desenvolvedor Líder Full-Stack pela [DTI](https://www.linkedin.com/company/dtidigital/?originalSubdomain=br)
-#### 🤔 Graduando pela [PUC-Minas](https://www.pucminas.br/destaques/Paginas/default.aspx)
-#### 💬 Curtindo Flutter, React JS, Sistemas Distribuídos, .NET e a vida
+## Sobre Mim
+#### Trabalho como Desenvolvedor Líder na [DTI](https://www.linkedin.com/company/dtidigital/?originalSubdomain=br)
+#### Engenheiro de Software formado pela [PUC-Minas](https://www.pucminas.br/destaques/Paginas/default.aspx)
 
-```
-function boasVindas(){
-  const x = "Bem vindo ao meu GitHub!"
-  console.log(x);
-}
-```
+## Habilidades Técnicas
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white) ![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white) ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=white) ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white)
+
+## Estatísticas do GitHub
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaopteles)](https://github.com/anuraghazra/github-readme-stats)
