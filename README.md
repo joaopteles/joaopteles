@@ -1,7 +1,7 @@
 # João Pedro Teles
 
 ## Sobre Mim
-#### Trabalho como Desenvolvedor Líder na [DTI](https://www.linkedin.com/company/dtidigital/?originalSubdomain=br)
+#### Trabalho como Desenvolvedor Líder na [DTI](https://www.linkedin.com/company/dtidigital/)
 #### Engenheiro de Software formado pela [PUC-Minas](https://www.pucminas.br/destaques/Paginas/default.aspx)
 
 ## Habilidades Técnicas
